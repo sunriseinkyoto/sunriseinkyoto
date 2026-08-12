@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
@@ -100,3 +101,21 @@ Meu objetivo é simples: aproveitar a IA moderna e a tecnologia de dados para re
 </p>
 
 
+=======
+## Hi there 👋
+
+<!--
+**sunriseinkyoto/sunriseinkyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f9ca544af6963857c2c3089402f2e1c45bc9b8cb
