@@ -33,15 +33,15 @@ Meu objetivo é simples: aproveitar a IA moderna e a tecnologia de dados para re
  <h2 align="center">🤝 Parceria</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="https://github.com/sunriseinkyoto/sunriseinkyoto">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+  <a href="https://www.linkedin.com/in/matheus-coutinho-50aa051b6">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="divebad@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
