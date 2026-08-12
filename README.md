@@ -77,7 +77,7 @@ Meu objetivo é simples: aproveitar a IA moderna e a tecnologia de dados para re
 <h2 align="center">📈 Atividade</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunriseinkyoto&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 ### 
@@ -101,21 +101,3 @@ Meu objetivo é simples: aproveitar a IA moderna e a tecnologia de dados para re
 </p>
 
 
-=======
-## Hi there 👋
-
-<!--
-**sunriseinkyoto/sunriseinkyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> f9ca544af6963857c2c3089402f2e1c45bc9b8cb
