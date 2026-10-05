@@ -9,7 +9,7 @@
 
 <h1 align="center"></h1>
 <br>
-<img width="100%" alt="Marceline" src="./assets/marceline-moon.gif" />
+<img width="100%" alt="Marceline" src="./assets/marceline-banner.gif" />
 <h1 align="center"></h1>
 
 <img align="right" width="300px" alt="Marceline guitar" src="./assets/marceline-guitar.gif" />
@@ -27,17 +27,22 @@ FUTURE: If it compiles, it's staying.
 
 <br clear="right"/>
 
+<div>
 <img align="left" width="373" height="210" alt="Marceline hat" src="./assets/marceline-hat.gif" />
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | `Python`, `Go`, `JavaScript`, `HTML`, `CSS` |
-| **Data & AI** | `FastAPI`, `PostgreSQL`, `MySQL` |
-| **DevOps** | `Docker`, `AWS` |
-| **Editors** | `VSCode` |
-| **VCS** | `Git` |
-
+<table>
+<thead>
+<tr><th align="left">Category</th><th align="left">Tools</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Languages</strong></td><td><code>Python</code>, <code>Go</code>, <code>JavaScript</code>, <code>HTML</code>, <code>CSS</code></td></tr>
+<tr><td><strong>Data &amp; AI</strong></td><td><code>FastAPI</code>, <code>PostgreSQL</code>, <code>MySQL</code></td></tr>
+<tr><td><strong>DevOps</strong></td><td><code>Docker</code>, <code>AWS</code></td></tr>
+<tr><td><strong>Editors</strong></td><td><code>VSCode</code></td></tr>
+<tr><td><strong>VCS</strong></td><td><code>Git</code></td></tr>
+</tbody>
+</table>
 <br clear="left"/>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
