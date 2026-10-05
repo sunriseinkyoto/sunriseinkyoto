@@ -1,70 +1,66 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-coutinho-50aa051b6" target="_blank">
+    <img src="https://img.shields.io/badge/✦%20LINKEDIN-matheus--coutinho-black?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:divebad@gmail.com">
+    <img src="https://img.shields.io/badge/✉%20EMAIL-divebad@gmail.com-black?style=for-the-badge" alt="Email" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
-</p>
+<h1 align="center"></h1>
+<br>
+<img width="100%" alt="Marceline" src="./assets/marceline-moon.gif" />
+<h1 align="center"></h1>
 
-<h1 align="center">Oi 👋, Eu sou o Coutinho</h1>
+<img align="right" width="300px" alt="Marceline guitar" src="./assets/marceline-guitar.gif" />
 
-<h3 align="center">Backend Developer</h3>
-
-<p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
-</p>
-
-<p align="center">
-Construindo sistemas de IA confiáveis ​​com arquitetura limpa e soluções escaláveis.
-</p>
-
-
-##  <h2 align="center">🚀 Sobre Mim </h2>
-
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
-
-**Couto**, Aqui  — Especialista em dados e IA com foco em aprendizado de máquina e modelagem estatística para impulsionar a eficiência operacional.
-
-Sou especialista na construção de modelos preditivos com Python e Go, transformando dados complexos em insights acionáveis ​​que otimizam os principais processos de negócios.
-
-Atualmente, estou aproveitando **Aprendizado de máquina, Métodos estatísticos, Pipelines de dados, Python**, apoiados por uma base sólida de 4 anos em suporte técnico de **TI, infraestrutura e Segurança de dados**.
-
-Meu objetivo é simples: aproveitar a IA moderna e a tecnologia de dados para resolver problemas complexos, agilizar operações e fornecer resultados de alto impacto para o crescimento dos negócios.
+```rust
+sunriseinkyoto@nightosphere
+NAME: Matheus Coutinho
+ROLE: Backend Developer · Data & AI
+FOCUS: Machine Learning, Statistics, Data Pipelines
+IDE: VSCode
+LANGS: Python, Go, JavaScript, HTML, CSS
+EXP: 4 years IT Support, Infra & Data Security
+FUTURE: If it compiles, it's staying.
+```
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Parceria</h2>
+<img align="left" width="300px" alt="Marceline hat" src="./assets/marceline-hat.gif" />
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `Python`, `Go`, `JavaScript`, `HTML`, `CSS` |
+| **Data & AI** | `FastAPI`, `PostgreSQL`, `MySQL` |
+| **DevOps** | `Docker`, `AWS` |
+| **Editors** | `VSCode` |
+| **VCS** | `Git` |
+
+<br clear="left"/>
 
 <p align="center">
-  <a href="https://github.com/sunriseinkyoto/sunriseinkyoto">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/matheus-coutinho-50aa051b6">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="divebad@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sunriseinkyoto&style=flat-square&color=9e2a2b&label=PROFILE+VIEWS)
+</div>
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+  <img src="https://raw.githubusercontent.com/sunriseinkyoto/sunriseinkyoto/output/pacman-contribution-graph-dark.svg" width="100%" />
 </p>
 
-<h2 align="center">⌘ Commits</h2>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
-</p>
-
-<h2 align="center">⌘ "The present is theirs; the future, for which I really worked, is mine." — Nikola Tesla</h2>
-
-
+<div align="center">
+  <img src="./assets/marceline-pfp.gif" width="160" /><br>
+  <i>“The present is theirs; the future, for which I really worked, is mine.” — Nikola Tesla</i>
+</div>
