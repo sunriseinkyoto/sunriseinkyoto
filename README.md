@@ -27,7 +27,7 @@ FUTURE: If it compiles, it's staying.
 
 <br clear="right"/>
 
-<img align="left" width="300px" alt="Marceline hat" src="./assets/marceline-hat.gif" />
+<img align="left" width="373" height="210" alt="Marceline hat" src="./assets/marceline-hat.gif" />
 
 | Category | Tools |
 | :--- | :--- |
@@ -62,5 +62,5 @@ FUTURE: If it compiles, it's staying.
 
 <div align="center">
   <img src="./assets/marceline-pfp.gif" width="160" /><br>
-  <i>“The present is theirs; the future, for which I really worked, is mine.” — Nikola Tesla</i>
+  <i>"I know all the other boys are tough and smooth, and I got the blues" - Marceline</i>
 </div>
