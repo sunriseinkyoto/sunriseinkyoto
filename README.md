@@ -17,12 +17,12 @@
 ```rust
 sunriseinkyoto@nightosphere
 NAME: Matheus Coutinho
-ROLE: Backend Developer · Data & AI
+ROLE: Backend Developer · Data / AI
 FOCUS: Machine Learning, Statistics, Data Pipelines
 IDE: VSCode
 LANGS: Python, Go, JavaScript, HTML, CSS
-EXP: 4 years IT Support, Infra & Data Security
-FUTURE: If it compiles, it's staying.
+EXP: Four Years IT Support, Infra / Data Security
+FUTURE: If It Compiles, It Stays.
 ```
 
 <br clear="right"/>
