@@ -12,7 +12,7 @@
 <img width="100%" alt="Luffy" src="./assets/luffy-banner.gif" />
 <h1 align="center"></h1>
 
-<img align="right" width="300px" alt="Luffy ship" src="./assets/luffy-ship.gif" />
+<img align="right" width="300px" alt="Luffy ship" src="./assets/luffy-deck.gif" />
 
 ```rust
 sunriseinkyoto@nightosphere
