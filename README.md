@@ -9,10 +9,10 @@
 
 <h1 align="center"></h1>
 <br>
-<img width="100%" alt="Marceline" src="./assets/marceline-banner.gif" />
+<img width="100%" alt="Luffy" src="./assets/luffy-banner.gif" />
 <h1 align="center"></h1>
 
-<img align="right" width="300px" alt="Marceline guitar" src="./assets/marceline-guitar.gif" />
+<img align="right" width="300px" alt="Luffy ship" src="./assets/luffy-ship.gif" />
 
 ```rust
 sunriseinkyoto@nightosphere
@@ -28,7 +28,7 @@ FUTURE: If It Compiles, It Stays.
 <br clear="right"/>
 
 <div>
-<img align="left" width="373" height="210" alt="Marceline hat" src="./assets/marceline-hat.gif" />
+<img align="left" width="373" height="210" alt="Luffy gear 5" src="./assets/luffy-gear5.gif" />
 <table>
 <thead>
 <tr><th align="left">Category</th><th align="left">Tools</th></tr>
@@ -66,6 +66,6 @@ FUTURE: If It Compiles, It Stays.
 ---
 
 <div align="center">
-  <img src="./assets/marceline-pfp.gif" width="160" /><br>
+  <img src="./assets/luffy-footer.gif" width="160" /><br>
   <i>"I know all the other boys are tough and smooth, and I got the blues" - Marceline</i>
 </div>
