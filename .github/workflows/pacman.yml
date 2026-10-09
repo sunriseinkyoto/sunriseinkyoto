@@ -25,37 +25,8 @@ jobs:
           games: 'pacman'
           player_style: 'opportunistic'
 
-      - name: Replace ghost sprites with Marceline
-        run: |
-          python3 - <<'EOF'
-          import re, base64, glob
-
-          def data_uri(path):
-              with open(path, "rb") as f:
-                  return "data:image/gif;base64," + base64.b64encode(f.read()).decode()
-
-          sprites = {"left": data_uri("assets/ghost-left.gif"), "right": data_uri("assets/ghost-right.gif")}
-
-          def swap(match):
-              direction = match.group(2)
-              href = sprites["left"] if direction == "left" else sprites["right"]
-              return (
-                  f'<symbol id="ghost-{match.group(1)}-{direction}" viewBox="0 0 20 20" overflow="visible">'
-                  f'<image href="{href}" x="-5" y="-5" width="30" height="30"/>'
-              )
-
-          for path in glob.glob("dist/*.svg"):
-              with open(path, "r", encoding="utf-8") as f:
-                  svg = f.read()
-              svg, count = re.subn(
-                  r'<symbol id="ghost-(blinky|inky|pinky|clyde)-(up|down|left|right)"[^>]*>\s*<image [^>]*>',
-                  swap,
-                  svg,
-              )
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(svg)
-              print(f"Swapped {count} ghost sprites in {path}")
-          EOF
+      - name: Theme the graph as a One Piece level
+        run: python3 scripts/theme_onepiece.py dist
 
       - name: Inline external images into SVG (fixes broken ghost icons)
         run: |
