@@ -60,7 +60,7 @@ FUTURE: If It Compiles, It Stays.
 ---
 
 <p align="center">
-  <img src="./assets/one-piece-graph.jpg" width="100%" alt="One Piece contribution graph" />
+  <img src="https://raw.githubusercontent.com/sunriseinkyoto/sunriseinkyoto/main/assets/one-piece-graph.svg" width="100%" alt="One Piece contribution graph" />
 </p>
 
 ---
