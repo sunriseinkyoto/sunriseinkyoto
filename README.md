@@ -67,5 +67,5 @@ FUTURE: If It Compiles, It Stays.
 
 <div align="center">
   <img src="./assets/luffy-footer.gif" width="160" /><br>
-  <i>"I know all the other boys are tough and smooth, and I got the blues" - Marceline</i>
+  <i>"Kaizoku ni ore wa naru!"</i>
 </div>
