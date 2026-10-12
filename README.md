@@ -54,7 +54,7 @@ FUTURE: If It Compiles, It Stays.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sunriseinkyoto&style=flat-square&color=9e2a2b&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/sunriseinkyoto.svg?style=flat-square&label=PROFILE%20VIEWS&color=9e2a2b)
 </div>
 
 ---
