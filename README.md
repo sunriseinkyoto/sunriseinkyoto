@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-coutinho-50aa051b6" target="_blank">
-    <img src="https://img.shields.io/badge/✦%20LINKEDIN-matheus--coutinho-black?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:divebad@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20EMAIL-divebad@gmail.com-black?style=for-the-badge" alt="Email" />
-  </a>
-</div>
 
 <h1 align="center"></h1>
 <br>
