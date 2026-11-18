@@ -1,9 +1,4 @@
-<h1 align="center"></h1>
-<br>
-<img width="100%" alt="Luffy" src="./assets/luffy-banner.gif" />
-<h1 align="center"></h1>
-
-<img align="right" width="300px" alt="Luffy ship" src="./assets/luffy-deck.gif" />
+<img width="100%" alt="banner" src="./assets/banner.jpg" />
 
 ```rust
 sunriseinkyoto@nightosphere
@@ -16,10 +11,6 @@ EXP: Four Years IT Support, Infra / Data Security
 FUTURE: If It Compiles, It Stays.
 ```
 
-<br clear="right"/>
-
-<div>
-<img align="left" width="373" height="210" alt="Luffy gear 5" src="./assets/luffy-gear5.gif" />
 <table>
 <thead>
 <tr><th align="left">Category</th><th align="left">Tools</th></tr>
@@ -32,8 +23,6 @@ FUTURE: If It Compiles, It Stays.
 <tr><td><strong>VCS</strong></td><td><code>Git</code></td></tr>
 </tbody>
 </table>
-<br clear="left"/>
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,21 +31,3 @@ FUTURE: If It Compiles, It Stays.
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 </p>
-
-<div align="center">
-
-![Profile Views](https://hits.sh/github.com/sunriseinkyoto.svg?style=flat-square&label=PROFILE%20VIEWS&color=9e2a2b)
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunriseinkyoto/sunriseinkyoto/main/assets/one-piece-graph.svg" width="100%" alt="One Piece contribution graph" />
-</p>
-
----
-
-<div align="center">
-  <img src="./assets/luffy-footer.gif" width="160" /><br>
-  <i>"Kaizoku ni ore wa naru!"</i>
-</div>
