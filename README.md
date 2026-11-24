@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="./assets/banner.gif" />
+<img width="100%" alt="banner" src="./assets/banner-kosho.gif" />
 
 ```rust
 sunriseinkyoto@nightosphere
